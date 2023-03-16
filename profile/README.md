@@ -5,7 +5,7 @@ Based on [Blind75](https://www.techinterviewhandbook.org/best-practice-questions
 
 ## 1 - Sequences
 | Problem | Tags | Problem Solving | Syntax |
-| ------- | ---- | ---------- |
+| ------- | ---- | --------------- | ------ |
 | [Two Sum](https://github.com/Blind-75-Reference/Two-Sum) | Arrays, Hashing | Easy | Easy |
 | [Contains Duplicate](https://github.com/Blind-75-Reference/Contains-Duplicate) | Arrays, Hashing | Easy | Easy |
 | [Best Time to Buy and Sell Stock](https://github.com/Blind-75-Reference/Best-Time-to-Buy-and-Sell-Stock) | Arrays | Easy | Easy |
