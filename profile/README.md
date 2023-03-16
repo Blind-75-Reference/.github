@@ -3,6 +3,10 @@ Based on [Blind75](https://www.techinterviewhandbook.org/best-practice-questions
   
 [Project info](https://github.com/Blind-75-Reference/.github)
 
+Need to come back to the earliest problems and write up guides as well as change branch names to not give away the solutions. Revisit ones before flood fill.
+
+Never finished merge sorted lists, need to re-write that before adding it to list.
+
 ## 1 - Sequences
 | Problem | Tags | Problem Solving | Syntax |
 | ------- | ---- | --------------- | ------ |
