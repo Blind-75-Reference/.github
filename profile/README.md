@@ -1,5 +1,5 @@
 # Blind 75
-[Series based on Blind75](https://www.techinterviewhandbook.org/best-practice-questions/)
+Based on [Blind75](https://www.techinterviewhandbook.org/best-practice-questions/) and [Grind75](https://www.techinterviewhandbook.org/grind75)
   
 [Project info](https://github.com/Blind-75-Reference/.github)
 
