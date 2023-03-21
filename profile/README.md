@@ -17,3 +17,4 @@ Never finished merge sorted lists, need to re-write that before adding it to lis
 | [Valid Parentheses](https://github.com/Blind-75-Reference/Valid-Parentheses) | Collections | Easy | Easy |
 | [Invert Binary Tree](https://github.com/Blind-75-Reference/Invert-Binary-Tree) | Trees, BFS, DFS | Easy | Easy |
 | [Binary Search](https://github.com/Blind-75-Reference/Binary-Search) | Arrays, Binary Search | Easy | Easy |
+| [Valid Palindrome](https://github.com/Blind-75-Reference/Valid-Palindrome) | Strings, Palindromes | Easy | Easy |
