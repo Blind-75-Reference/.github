@@ -15,6 +15,7 @@ Never finished merge sorted lists, need to re-write that before adding it to lis
 | [Best Time to Buy and Sell Stock](https://github.com/Blind-75-Reference/Best-Time-to-Buy-and-Sell-Stock) | Arrays | Easy | Easy |
 | [Valid Anagram](https://github.com/Blind-75-Reference/Valid-Anagram) | Arrays, Sorting | Easy | Easy |
 | [Valid Parentheses](https://github.com/Blind-75-Reference/Valid-Parentheses) | Collections | Easy | Easy |
+| [Merge Sorted Lists](https://github.com/Blind-75-Reference/Merge-Sorted-Lists) | Linked Lists | Easy | Medium |
 | [Invert Binary Tree](https://github.com/Blind-75-Reference/Invert-Binary-Tree) | Trees, BFS, DFS | Easy | Easy |
 | [Binary Search](https://github.com/Blind-75-Reference/Binary-Search) | Arrays, Binary Search | Easy | Easy |
 | [Valid Palindrome](https://github.com/Blind-75-Reference/Valid-Palindrome) | Strings, Palindromes | Easy | Easy |
