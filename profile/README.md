@@ -7,7 +7,7 @@ Need to come back to the earliest problems and write up guides as well as change
 
 Never finished merge sorted lists, need to re-write that before adding it to list.
 
-## 1 - Sequences
+## Level 1
 | Problem | Tags | Problem Solving | Syntax |
 | ------- | ---- | --------------- | ------ |
 | [Two Sum](https://github.com/Blind-75-Reference/Two-Sum) | Arrays, Hashing | Easy | Easy |
