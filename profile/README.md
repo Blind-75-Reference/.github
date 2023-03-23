@@ -21,3 +21,4 @@ Never finished merge sorted lists, need to re-write that before adding it to lis
 | [Valid Palindrome](https://github.com/Blind-75-Reference/Valid-Palindrome) | Strings, Palindromes | Easy | Easy |
 | [Flood Fill](https://github.com/Blind-75-Reference/Flood-Fill) | Arrays, Matrices | Easy | Easy |
 | [Lowest Common Ancestor of a BST](https://github.com/Blind-75-Reference/Lowest-Common-Ancestor-Of-A-BST) | BST, Recursion | Medium | Easy |
+| [Balanced Binary Tree](https://github.com/Blind-75-Reference/Balanced-Binary-Tree) |  |  |  |
