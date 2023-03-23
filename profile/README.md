@@ -7,6 +7,8 @@ Need to come back to the earliest problems and write up guides as well as change
   
 Not all of these have multiple solutions. In some cases there really isn't a correct sub-optimal solution, or there aren't different enough solutions.
   
+Need to come back and refactor these to conform to the code challenge activity template.
+  
 Need to clean up and consolidate the tags.
   
 
