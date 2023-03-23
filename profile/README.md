@@ -2,10 +2,13 @@
 Based on [Blind75](https://www.techinterviewhandbook.org/best-practice-questions/) and [Grind75](https://www.techinterviewhandbook.org/grind75)
   
 [Project info](https://github.com/Blind-75-Reference/.github)
-
-Need to come back to the earliest problems and write up guides as well as change branch names to not give away the solutions. Revisit ones before flood fill.
-
-Never finished merge sorted lists, need to re-write that before adding it to list.
+  
+Need to come back to the earliest problems and write up guides as well as change branch names to not give away the solutions. Revisit ones before flood fill. 
+  
+Not all of these have multiple solutions. In some cases there really isn't a correct sub-optimal solution, or there aren't different enough solutions.
+  
+Need to clean up and consolidate the tags.
+  
 
 ## Level 1
 | Problem | Tags | Problem Solving | Syntax |
